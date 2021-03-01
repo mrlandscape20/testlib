@@ -1,3 +1,3 @@
-@Library('testlib@master') _
+@Library('testlib@main') _
 
 evenOrOdd(currentBuild.getNumber())
