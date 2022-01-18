@@ -1,4 +1,4 @@
-@Library('testlib@main') _
+@Library('testlib-jenkins@main') _
 evenOrOdd(currentBuild.getNumber())
 
 // pipeline {
